@@ -58,7 +58,7 @@ global.vcardowner = ['97691269356'] //ur owner number
 global.ownername = "꧁⁑✶💣𝓗ᵃᗰŻⓐ💣✶⁑༺꧂" //ur owner name
 global.ytname = "YT: Loser" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Pakistan, Multan, Khanewal" //ur location
 
 //bot bomdy 
 global.owner = ['97691269356']
@@ -73,10 +73,10 @@ global.packname = "꧁⁑✶💣𝓗ᵃᗰŻⓐ💣✶⁑༺꧂" //ur sticker wa
 global.author = "LOⓢER" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.imgur.com/Rtv8MBJ.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.imgur.com/Rtv8MBJ.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.imgur.com/Rtv8MBJ.jpeg") //ur error pic
+global.thumb = fs.readFileSync("https://i.imgur.com/Rtv8MBJ.jpeg") //ur thumb pic
 
 //damtabase
 global.premium = ['97691269356'] //ur premium numbers
