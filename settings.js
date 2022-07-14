@@ -66,7 +66,7 @@ global.ownertag = '97691269356' //ur tag number
 global.botname = '✴️LOSER BOT SYSTEM✴️' //ur bot name
 global.linkz = "https://youtube.com/shorts/6krd1lZYhy0?feature=share" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/shorts/6krd1lZYhy0?feature=share" //ur website to be displayed
-global.botscript = 'https://github.com/Hamza/Loser bot system' //script link
+global.botscript = 'http://Wa.me/+97691269356' //script link
 global.reactmoji = "🐣" //ur menu react emoji
 global.themeemoji = "🐥" //ur theme emoji
 global.packname = "꧁⁑✶💣𝓗ᵃᗰŻⓐ💣✶⁑༺꧂" //ur sticker watermark packname
