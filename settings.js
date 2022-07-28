@@ -69,8 +69,8 @@ global.websitex = "https://youtube.com/shorts/6krd1lZYhy0?feature=share" //ur we
 global.botscript = 'http://Wa.me/+97691269356' //script link
 global.reactmoji = "🐣" //ur menu react emoji
 global.themeemoji = "🐥" //ur theme emoji
-global.packname = "꧁⁑✶💣𝓗ᵃᗰŻⓐ💣✶⁑༺꧂" //ur sticker watermark packname
-global.author = "LOⓢER" //ur sticker watermark author
+global.packname = "༆❤⃝≛𓆩нᷓαᷢмͣzͦαᷓ𓆪≛⃝❤༆" //ur sticker watermark packname
+global.author = "" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
