@@ -54,19 +54,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['97691269356'] //ur owner number
+global.vcardowner = ['12054000010'] //ur owner number
 global.ownername = "꧁⁑✶💣𝓗ᵃᗰŻⓐ💣✶⁑༺꧂" //ur owner name
 global.ytname = "YT: Loser" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "Pakistan, Multan, Khanewal" //ur location
 
 //bot bomdy 
-global.owner = ['97691269356']
-global.ownertag = '97691269356' //ur tag number
+global.owner = ['12054000010']
+global.ownertag = '12054000010' //ur tag number
 global.botname = '✴️LOSER BOT SYSTEM✴️' //ur bot name
-global.linkz = "https://youtube.com/shorts/6krd1lZYhy0?feature=share" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/shorts/6krd1lZYhy0?feature=share" //ur website to be displayed
-global.botscript = 'http://Wa.me/+97691269356' //script link
+global.linkz = "https://youtube.com/shorts/hgkOBDxEdmQ?feature=share" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/shorts/hgkOBDxEdmQ?feature=share" //ur website to be displayed
+global.botscript = 'http://Wa.me/+12054000010' //script link
 global.reactmoji = "🐣" //ur menu react emoji
 global.themeemoji = "🐥" //ur theme emoji
 global.packname = "༆❤⃝≛𓆩нᷓαᷢмͣzͦαᷓ𓆪≛⃝❤༆" //ur sticker watermark packname
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['97691269356'] //ur premium numbers
+global.premium = ['12054000010'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
